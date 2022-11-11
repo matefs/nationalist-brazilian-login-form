@@ -1,0 +1,30 @@
+body{
+  background-image: url('./media/bandeira.jpg');
+  background-position: left;
+
+}
+ 
+
+div.center { 
+text-align:center;
+padding:1em;
+}
+
+div.center a {
+  text-decoration: none;
+}
+
+
+#brazil-photo {
+  max-width: 70%;
+  max-height:20em;
+  border-radius:1em;
+  margin-top: 1.4em;
+}
+ 
+
+div.form-div{
+  padding:1em;
+  margin-top:2em;
+  
+}
