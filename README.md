@@ -1,5 +1,5 @@
 # Nationalist brazilian login form
-A simple login form using bootstrap, and css properties. 
+A simple login form using bootstrap and css properties. 
 
 
 ## Project Image
