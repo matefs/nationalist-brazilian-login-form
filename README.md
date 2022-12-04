@@ -2,8 +2,9 @@
 A simple and responsive login form using bootstrap and css properties. 
 
 
-## Project Image (Desktop x Mobile) 
-![RESPONSIVE LOGIN FORM](https://user-images.githubusercontent.com/30128774/201430748-aea8dada-934e-483b-9424-085fcfbe5d25.jpg)
+## Project Image (Desktop x Mobile)  
+![image](https://user-images.githubusercontent.com/30128774/205487424-cd3a5533-56a3-4530-a6a4-fdcbfafa608e.png)
+
 
 ### See online 
 https://codepen.io/matefs/live/XWYRXJe
